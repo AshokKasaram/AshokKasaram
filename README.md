@@ -43,18 +43,27 @@ My experience spans **machine learning, analytics, and cloud data engineering**,
 ![M Query](https://img.shields.io/badge/M_Query-00B2A9?style=for-the-badge&logo=powerbi&logoColor=white)
 
 #### Machine Learning & AI  
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-E95420?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-FF4088?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF8C00?style=for-the-badge)
-![Causal Inference](https://img.shields.io/badge/Causal%20Inference-00A86B?style=for-the-badge)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-00A86B?style=for-the-badge)
+![Clustering & Segmentation](https://img.shields.io/badge/Clustering%20%26%20Segmentation-9370DB?style=for-the-badge)
+![Time Series Forecasting](https://img.shields.io/badge/Time%20Series%20Forecasting-20B2AA?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4682B4?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation%20%26%20Optimization-708090?style=for-the-badge)
+![Causal Inference](https://img.shields.io/badge/Causal%20Inference-FF8C00?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/Experimentation%20%26%20A%2FB%20Testing-FFD700?style=for-the-badge)
+![Recommender Systems](https://img.shields.io/badge/Recommender%20Systems-008080?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF1493?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-000000?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-FF4088?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-5F9EA0?style=for-the-badge)
+
+
+
+
+
 
 #### Data Analytics & Visualization  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
