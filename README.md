@@ -11,6 +11,13 @@
 
 ---
 
+### About Me  
+I’m a Data Science & AI professional who loves solving complex problems with data, experimentation, and intelligent systems.  
+My experience spans **machine learning, analytics, and cloud data engineering**, with a focus on transforming raw information into products that drive measurable business outcomes.  
+I believe great data work sits at the intersection of **science, design, and storytelling** — and that’s where I build.
+
+---
+
 ### GitHub Stats  
 
 ![Ashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshokKasaram&show_icons=true&theme=radical)  
@@ -18,11 +25,11 @@
 
 ---
 
-### Contact  
-
-- 📧 [Email](mailto:ashok.kasaram99@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/ashok-kasaram)  
-- 🌐 [Portfolio](https://github.com/AshokKasaram)
+### Currently Exploring  
+- **Generative AI Systems:** LLMs, Retrieval-Augmented Generation (RAG), and LangChain for real-time knowledge applications.  
+- **Cloud-Native Data Science:** Scalable modeling and deployment using Azure Synapse, Databricks, and BigQuery ML.  
+- **Experimentation & Causal Inference:** Designing and analyzing A/B tests and uplift models to measure true product impact.  
+- **MLOps & Responsible AI:** Streamlining end-to-end ML pipelines and ensuring transparency, fairness, and reproducibility.
 
 ---
 
@@ -94,11 +101,6 @@
 
 ---
 
-### Education  
-**M.S. in Data Science & Artificial Intelligence** — Florida International University (GPA: 3.86)
-
----
-
 ### Certifications  
 - Microsoft Certified: Azure AI Engineer Associate  
 - IBM Data Science Professional Certificate  
@@ -106,4 +108,16 @@
 
 ---
 
-⭐ _“Transforming information into innovation, one insight at a time.”_
+### Education  
+**M.S. in Data Science & Artificial Intelligence** — Florida International University (GPA: 3.86)
+
+---
+
+### Contact  
+
+- [Email](mailto:ashok.kasaram99@gmail.com)  
+- [LinkedIn](https://linkedin.com/in/ashok-kasaram)  
+- [Portfolio](https://github.com/AshokKasaram)
+---
+
+_“Transforming information into innovation, one insight at a time.”_
