@@ -13,8 +13,7 @@
 
 ### About Me  
 I’m a Data Science & AI professional who loves solving complex problems with data, experimentation, and intelligent systems.  
-My experience spans **machine learning, analytics, and cloud data engineering**, with a focus on transforming raw information into products that drive measurable business outcomes.  
-I believe great data work sits at the intersection of **science, design, and storytelling** — and that’s where I build.
+My experience spans **machine learning, analytics, and cloud data engineering**, with a focus on transforming raw information into products that drive measurable business outcomes. I believe great data work sits at the intersection of **science, design, and storytelling** and that’s where I build.
 
 ---
 
