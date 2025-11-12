@@ -1,10 +1,13 @@
-## Hello! My name is Ashok Kasaram 👋  
-Welcome to my GitHub Page!  
+<h1 align="center">
+  Hello! My name is Ashok Kasaram
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" />
+</h1>
+<p align="center">Welcome to my GitHub Page!</p>
 
 ---
 
 ### MOTTO  
-> Turning data into intelligence, one model at a time.
+> Transforming data into insights, and insights into impact.
 
 ---
 
@@ -103,4 +106,4 @@ Welcome to my GitHub Page!
 
 ---
 
-⭐ _“Data without purpose is noise — insight turns it into innovation.”_
+⭐ _“Transforming information into innovation, one insight at a time.”_
